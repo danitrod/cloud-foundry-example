@@ -1,0 +1,11 @@
+applications:
+  - name: maratona-cf-example
+    path: .
+    command: node index.js
+    instances: 1
+    routes:
+      - route: maratona-cf-exemplo.mybluemix.net
+    random-route: true
+    memory: 128M
+    env:
+      LOCATION: 'IBM Cloud'
