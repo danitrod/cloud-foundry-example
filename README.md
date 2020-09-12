@@ -18,3 +18,7 @@ Suba uma API Node.js no Cloud Foundry.
 8. Subir a aplicação para a nuvem: `ibmcloud cf push`.
 
 Para subir atualizações no app, basta executar novamente `ibmcloud cf push`.
+
+## Referências
+
+- [Cloud Foundry Docs - Deploing with App Manifests](https://docs.cloudfoundry.org/devguide/deploy-apps/manifest.html)
