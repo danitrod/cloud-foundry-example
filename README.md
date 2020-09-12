@@ -4,7 +4,7 @@ Suba uma API Node.js no Cloud Foundry.
 
 ## Vídeo
 
-[Acesse o vídeo com uma explicação passo a passo aqui.](https://youtube.com)
+[Acesse o vídeo com uma explicação passo a passo aqui.](https://www.youtube.com/watch?v=PFGPgO3YZ4c)
 
 ## Passo a passo
 
