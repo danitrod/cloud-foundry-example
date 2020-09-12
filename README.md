@@ -21,5 +21,5 @@ Para subir atualizações no app, basta executar novamente `ibmcloud cf push`.
 
 ## Referências
 
-- [Cloud Foundry Docs - Deploing with App Manifests](https://docs.cloudfoundry.org/devguide/deploy-apps/manifest.html)
+- [Cloud Foundry Docs - Deploying with App Manifests](https://docs.cloudfoundry.org/devguide/deploy-apps/manifest.html)
 - [IBM Cloud Foundry](https://www.ibm.com/cloud/cloud-foundry)
